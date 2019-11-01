@@ -1,0 +1,54 @@
+[
+	{
+		"complain_id" : "1",
+		"aadhar_number" : "963212678321",
+		"name" : "Manan Rajvir",
+		"contact_number" : "9099984086",
+		"department" : "Water",
+		"details" : "Lack of water supply in Ramdham Society Region", 
+		"status" : "Pending"
+	},
+	
+	
+	{
+		"complain_id" : "2",
+		"aadhar_number" : "145235476222",
+		"name" : "Susan Smith",
+		"contact_number" : "9462884086",
+		"department" : "Electricity department",
+		"details" : "Frequent Powercuts and lose cable connections: Mangal Kiran Appt, Aalap Society, Yagnik Road", 
+		"status" : "Pending"
+	},
+	
+	{
+		"complain_id" : "3",
+		"aadhar_number" : "125432168974",
+		"name" : "Robin Paul",
+		"contact_number" : "9973210743",
+		"department" : "Postal Services",
+		"details" : "My courrier (Package Number: 105215) has not yet been delivered", 
+		"status" : "Pending"
+	},
+	
+	{
+		"complain_id" : "4",
+		"aadhar_number" : "986532172233",
+		"name" : "Yash Saxena",
+		"contact_number" : "9099976086",
+		"department" : "Water",
+		"details" : "Lack of water supply in Kailash Part Road", 
+		"status" : "Pending"
+	},
+	
+	{
+		"complain_id" : "5",
+		"aadhar_number" : "123443211234",
+		"name" : "Serena Williams",
+		"contact_number" : "8426901235",
+		"department" : "Telephone department",
+		"details" : "Have requested for a telephone repair service, no responce from the department yet!", 
+		"status" : "Pending"
+	}
+	
+	
+]

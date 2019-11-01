@@ -1,0 +1,72 @@
+[
+	{
+		"aadhar_id" : "963212678321",
+		"district" : "Rajkot",
+		"street" : "Ramdham street 2, Kalawad Road",
+		"area_code" : "360001"
+	},
+	
+	{
+		"aadhar_id" : "123456781234",
+		"district" : "Rajkot",
+		"street" : "Rameshwar street 2, Kalawad Road",
+		"area_code" : "360002"
+	},
+	
+	{
+		"aadhar_id" : "145235476222",
+		"district" : "Rajkot",
+		"street" : "Aalap Society, Yagnik Road",
+		"area_code" : "360005"
+	},
+	
+	{
+		"aadhar_id" : "125432168974",
+		"district" : "Rajkot",
+		"street" : "Ramdham street 5, Kalawad Road",
+		"area_code" : "360001"
+	},
+	
+	{
+		"aadhar_id" : "111122223333",
+		"district" : "Rajkot",
+		"street" : "street 4, University Road",
+		"area_code" : "360002"
+	},
+	
+	{
+		"aadhar_id" : "986532172233",
+		"district" : "Rajkot",
+		"street" : "Kailash Park Road",
+		"area_code" : "360007"
+	},
+	
+	{
+		"aadhar_id" : "135724681357",
+		"district" : "Rajkot",
+		"street" : "street 7, Pandit Dindayal Road",
+		"area_code" : "360010"
+	},
+	
+	{
+		"aadhar_id" : "123443211234",
+		"district" : "Rajkot",
+		"street" : "street 10, Laxminagar Road",
+		"area_code" : "360001"
+	},
+	
+	{
+		"aadhar_id" : "123443211897",
+		"district" : "Rajkot",
+		"street" : "Parimal Society, Hospital Road",
+		"area_code" : "360007"
+	},
+	
+	{
+		"aadhar_id" : "987632145688",
+		"district" : "Rajkot",
+		"street" : "street Number 14, Ring Road",
+		"area_code" : "360009"
+	}
+	
+]

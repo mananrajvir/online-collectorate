@@ -1,0 +1,102 @@
+[
+	{
+		"aadhar_number" : "963212678321",
+		"date_of_birth" : "22-Aug-1998",
+		"name" : "Manan Rajvir",
+		"voter_id" : "GJK 2167834",
+		"license_number" : "NA",
+		"gender" : "Male",
+		"phone_number" : "9099984086" //, "9099984083"
+	},
+	
+	{
+		"aadhar_number" : "123456781234",
+		"date_of_birth" : "30-Aug-1998",
+		"name" : "Sam George",
+		"voter_id" : "HIK 1245789",
+		"license_number" : "NA",
+		"gender" : "Male",
+		"phone_number" : "9099984345"
+	},
+	
+	{
+		"aadhar_number" : "145235476222",
+		"date_of_birth" : "15-Apr-1975",
+		"name" : "Susan Smith",
+		"voter_id" : "HXM 2189834",
+		"license_number" : "GJ03 20150020570",
+		"gender" : "Female",
+		"phone_number" : "9462884086"
+	},
+	
+	{
+		"aadhar_number" : "125432168974",
+		"date_of_birth" : "15-Jan-1982",
+		"name" : "Robin Paul",
+		"voter_id" : "HTL 7654321",
+		"license_number" : "GJ03 20120031630",
+		"gender" : "Female",
+		"phone_number" : "9973210743"
+	},
+	
+	{
+		"aadhar_number" : "111122223333",
+		"date_of_birth" : "09-Mar-1970",
+		"name" : "Aditya Mehta",
+		"voter_id" : "GHT 1259851",
+		"license_number" : "GJ03 20091521551",
+		"gender" : "Male",
+		"phone_number" : "8842884086" //,"9032177809"
+	},
+	
+	{
+		"aadhar_number" : "986532172233",
+		"date_of_birth" : "18-Jul-1989",
+		"name" : "Yash Saxena",
+		"voter_id" : "GJK 2167935",
+		"license_number" : "GJ03 200109124551",
+		"gender" : "Male",
+		"phone_number" : "9099976086"
+	},
+	
+	{
+		"aadhar_number" : "135724681357",
+		"date_of_birth" : "22-Feb-1974",
+		"name" : "Aashay Rughani",
+		"voter_id" : "GJK 7234987",
+		"license_number" : "NA",
+		"gender" : "Male",
+		"phone_number" : "9080494628"
+	},
+	
+	{
+		"aadhar_number" : "123443211234",
+		"date_of_birth" : "01-Apr-1997",
+		"name" : "Serena Williams",
+		"voter_id" : "NA",
+		"license_number" : "NA",
+		"gender" : "Female",
+		"phone_number" : "8426901235"
+	},
+	
+	{
+		"aadhar_number" : "123443211897",
+		"date_of_birth" : "01-Jan-1979",
+		"name" : "Christine Gomez",
+		"voter_id" : "GJK 21784367",
+		"license_number" : "GJ03 200008124567",
+		"gender" : "Female",
+		"phone_number" : "9099984081" //,"7309812427"
+	},
+	
+	{
+		"aadhar_number" : "987632145688",
+		"date_of_birth" : "17-Sep-1969",
+		"name" : "Simran Vyas",
+		"voter_id" : "GKT 4135678",
+		"license_number" : "GJ03 200110520152",
+		"gender" : "Female",
+		"phone_number" : "9045692156"
+	}
+	
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"sale_number" : "142786",
+		"owner_aadhar_id" : "123456781234",
+		"amount" : "50000",
+		"buyer_aadhar_id" : "145235476222",
+		"address" : "Plot Number 16,Kalawad Road, Rajkot",
+		"sale_type": "Purchase"
+	},
+	{
+		"sale_number" : "142787",
+		"owner_aadhar_id" : "125432168974",
+		"amount" : "70000",
+		"buyer_aadhar_id" : "111122223333",
+		"address" : "Plot Number 6,Kalawad Road, Rajkot",
+		"sale_type": "Purchase"
+	},
+	{
+		"sale_number" : "142788",
+		"owner_aadhar_id" : "135724681357",
+		"amount" : "240000",
+		"buyer_aadhar_id" : "986532172233",
+		"address" : "Plot Number 1,Ring Road, Rajkot",
+		"sale_type": "Mortage"
+	},
+	{
+		"sale_number" : "142789",
+		"owner_aadhar_id" : "123456781234",
+		"amount" : "50000",
+		"buyer_aadhar_id" : "123443211234",
+		"address" : "Plot Number 17,Kalawad Road, Rajkot",
+		"sale_type": "Purchase"
+	},
+	{
+		"sale_number" : "142790",
+		"owner_aadhar_id" : "123443211897",
+		"amount" : "2000",
+		"buyer_aadhar_id" : "987632145688",
+		"address" : "Plot Number 48,Yagnig Road, Rajkot",
+		"sale_type": "Purchase"
+	}
+]
+		
+	
