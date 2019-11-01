@@ -1,0 +1,17 @@
+{
+  "name": "online-collectorate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-winston": "^4.0.1",
+    "mongoose": "^5.7.7",
+    "winston": "^3.2.1"
+  }
+}
