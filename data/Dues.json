@@ -1,7 +1,7 @@
 [
 	{
 		"due_id" : "19",
-		"aadhar_number" : "135724681357",
+		"aadhar" : "135724681357",
 		"name" : "Aashay Rughani",
 		"due_amount" : "1086",
 		"pay_to_office" : "Electrical department",
@@ -15,7 +15,7 @@
 	
 	{
 		"due_id" : "22",
-		"aadhar_number" : "125432168974",
+		"aadhar" : "125432168974",
 		"due_amount" : "478",
 		"pay_to_office" : "Water department",
 		"due_type" : "Pending Bill",
@@ -28,7 +28,7 @@
 	
 	{
 		"due_id" : "6",
-		"aadhar_number" : "145235476222",
+		"aadhar" : "145235476222",
 		"name" : "Susan Paul",
 		"due_amount" : "500",
 		"pay_to_office" : "RTO",
@@ -42,7 +42,7 @@
 	
 	{
 		"due_id" : "11",
-		"aadhar_number" : "963212678321",
+		"aadhar" : "963212678321",
 		"name" : "Manan Rajvir",
 		"due_amount" : "500",
 		"pay_to_office" : "RTO",
@@ -56,7 +56,7 @@
 	
 	{
 		"due_id" : "29",
-		"aadhar_number" : "123443211897",
+		"aadhar" : "123443211897",
 		"name" : "Christine Gomez",
 		"due_amount" : "2478",
 		"pay_to_office" : "Electrical department",

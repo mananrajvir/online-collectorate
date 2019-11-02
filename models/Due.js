@@ -6,7 +6,7 @@ var dueSchema = mongoose.Schema({	// From the data given in the sheet
 		required: true,
 		unique: true,
 	},
-	aadhar_number: String,
+	aadhar: String,
 	due_amount: Number,
 	pay_to_office: String,
 	due_type: String,

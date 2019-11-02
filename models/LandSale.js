@@ -10,7 +10,7 @@ var landSaleSchema = mongoose.Schema({	// From the data given in the sheet
 		type: String,
 		required: true,
 	},
-	Amount: Number,
+	amount: Number,
 	buyer_aadhar: {
 		type: String,
 		required: true,
