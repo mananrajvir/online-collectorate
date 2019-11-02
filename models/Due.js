@@ -11,7 +11,6 @@ var dueSchema = mongoose.Schema({	// From the data given in the sheet
 	pay_to_office: String,
 	due_type: String,
 	payment: {
-		payment_id: Number,
 		date: Date,
 		amount: Number,
 		payment_method: String
