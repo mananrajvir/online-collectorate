@@ -6,6 +6,12 @@
 		"due_amount" : "1086",
 		"pay_to_office" : "Electrical department",
 		"due_type" : "Monthly Bill", 
+		"payment": {
+			"payment_id": "154893",
+			"date": "16-Sep-2019",
+			"amount": "10000",
+			"payment_method": "Online"
+		}
 	},
 	
 	{
