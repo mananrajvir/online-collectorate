@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-var utilitiesListSchema = mongoose.Schema({	// From the data given in the sheet
+var utilitySchema = mongoose.Schema({	// From the data given in the sheet
 	utility_type : String,
 	place_name : String,
 	address : String,
@@ -8,4 +8,4 @@ var utilitiesListSchema = mongoose.Schema({	// From the data given in the sheet
 	timings : String
 });
 
-module.exports = mongoose.model("UtilitiesList", utilitiesListSchema);
+module.exports = mongoose.model("Utility", utilitySchema);

@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-var publicUtilitiesSchema = mongoose.Schema({	// From the data given in the sheet
+var publicUtilitySchema = mongoose.Schema({	// From the data given in the sheet
 	appointment_id: {
 		type: Number,
 		required: true,
@@ -15,4 +15,4 @@ var publicUtilitiesSchema = mongoose.Schema({	// From the data given in the shee
 	appointment_type: String,
 });
 
-module.exports = mongoose.model("PublicUtilities", publicUtilitiesSchema);
+module.exports = mongoose.model("PublicUtility", publicUtilitySchema);

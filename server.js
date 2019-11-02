@@ -41,6 +41,39 @@ function doCitizenUpdate(query, update) {
 	});	
 }
 
+function doComplaintUpdate(query, update) {
+	return new Promise((resolve, reject) => {
+		Complaint.findOneAndUpdate(query, update,
+			{ upsert: true, new: true, setDefaultsOnInsert: true },
+			function (err, doc) {
+				if (err) return reject(err);
+				return resolve(doc);
+			});
+	});
+}
+
+function doDueUpdate(query, update) {
+	return new Promise((resolve, reject) => {
+		Due.findOneAndUpdate(query, update,
+			{ upsert: true, new: true, setDefaultsOnInsert: true },
+			function (err, doc) {
+				if (err) return reject(err);
+				return resolve(doc);
+			});
+	});
+}
+
+function doLandRecordUpdate(query, update) {
+	return new Promise((resolve, reject) => {
+		LandRecord.findOneAndUpdate(query, update,
+			{ upsert: true, new: true, setDefaultsOnInsert: true },
+			function (err, doc) {
+				if (err) return reject(err);
+				return resolve(doc);
+			});
+	});
+}
+
 app.get('/parseCitizens', (req, res) => {
 	var promises = citizensJSON.map((v) => doCitizenUpdate({aadhar: v.aadhar}, v));
 

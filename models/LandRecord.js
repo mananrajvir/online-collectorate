@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-var landRecordsSchema = mongoose.Schema({	// From the data given in the sheet
+var landRecordSchema = mongoose.Schema({	// From the data given in the sheet
 	aadhar: {
 		type: String,
 		required: true,
@@ -15,4 +15,4 @@ var landRecordsSchema = mongoose.Schema({	// From the data given in the sheet
 	,
 });
 
-module.exports = mongoose.model("LandRecords", landRecordsSchema);
+module.exports = mongoose.model("LandRecord", landRecordSchema);
