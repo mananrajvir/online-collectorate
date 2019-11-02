@@ -4,23 +4,40 @@
 		"place_name" : "Indian Post Main Post Office",
 		"address" : "Post Office Sadarbazar, Main Road, Rajkot",
 		"contact_details" : "(0281)2224532",
-		"open_timings" : "8am to 6pm"
+		"timings" : "8am to 6pm"
 	},
 	
 	
-		{
+	{
 		"utility_type" : "Police Station",
 		"place_name" : "Gandhigram Police Station",
 		"address" : "150 Feet Ring Rd, Rajkot, Gujarat 360007",
 		"contact_details" : "(0281)2588085",
-		"open_timings" : "24 hours"
+		"timings" : "24 hours"
 	},
 	
-		{
+	{
 		"utility_type" : "Hospital",
-		"place_name" : "Sterling Hospital",
-		"address" : "Plot No, 251, 150 Feet Ring Road, Rajkot, 360007",
+		"place_name" : "Sterling Government Hospital",
+		"address" : "Plot No 7, 251, 150 Feet Ring Road, Rajkot, 360007",
 		"contact_details" : "info@sterlinghospitals.com",
-		"open_timings" : "24 hours"
-	}
+		"timings" : "24 hours"
+	},
+	
+	{
+		"utility_type" : "Electricity Office",
+		"place_name" : "Paschim Gujarat Vij Company",
+		"address" : "Electricity Board Opposite Sorathiyawadi Garden",
+		"contact_details" : "09033942197",
+		"timings" : "11am to 7pm"
+	},
+	
+	{
+		"utility_type" : "Municipality",
+		"place_name" : "Rajkot Municipal Corporation",
+		"address" : "Ward No, 17-A, Sahkar Rd, Virat Nagar",
+		"contact_details" : "mc_rmc@rmc.gov.in",
+		"timings" : "10am to 10pm"
+	},
+	
 ]

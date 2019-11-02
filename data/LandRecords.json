@@ -1,36 +1,36 @@
 [
 	{
-		"owner_aadhar_id" : "123443211234",
+		"owner_aadhar" : "123443211234",
 		"area" : "Plot Number 6, Ramdham street 5, Kalawad Road",
 		"land_type" : "Commercial",
 	},
 	
 	{
-		"owner_aadhar_id" : "135724681357",
+		"owner_aadhar" : "135724681357",
 		"area" : "Plot Number 21, Aalap Greencity, University Road",
 		"land_type" : "Commercial",
 	},
 	
 	{
-		"owner_aadhar_id" : "123443211897",
+		"owner_aadhar" : "123443211897",
 		"area" : "Plot Number 11, Taraghadi, Rajkot-Jamnagar Highway",
 		"land_type" : "Agriculture",
 	},
 	
 	{
-		"owner_aadhar_id" : "987632145688",
+		"owner_aadhar" : "987632145688",
 		"area" : "Plot Number 5, Africa Colony, Kalawad Road",
 		"land_type" : "Residential",
 	},
 	
 	{
-		"owner_aadhar_id" : "125432168974",
+		"owner_aadhar" : "125432168974",
 		"area" : "Plot Number 11, Subhashnagar street 5, Kalawad Road",
 		"land_type" : "Residential",
 	},
 	
 	{
-		"owner_aadhar_id" : "986532172233",
+		"owner_aadhar" : "986532172233",
 		"area" : "Plot 1, Airport Road",
 		"land_type" : "Commercial",
 	}

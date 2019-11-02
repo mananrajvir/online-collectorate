@@ -1,7 +1,7 @@
 [
 	{
 		"appointment_id" : "11",
-		"aadhar_id" : "963212678321",
+		"aadhar" : "963212678321",
 		"place_name" : "Sterling Goverment Hospital",
 		"utility_type" : "Hospital",
 		"appointment_type" : "Regular"
@@ -10,7 +10,7 @@
 	
 	{
 		"appointment_id" : "21", 
-		"aadhar_id" : "987632145688",
+		"aadhar" : "987632145688",
 		"place_name" : "Paschim Gujarat Vij Company",
 		"utility_type" : "Electricity Office",
 		"appointment_type" : "Regular"
@@ -18,7 +18,7 @@
 	
 	{
 		"appointment_id" : "10", 
-		"aadhar_id" : "123443211234",
+		"aadhar" : "123443211234",
 		"place_name" : "Rajkot Municipal Corporation",
 		"utility_type" : "Municipality",
 		"appointment_type" : "Regular"
@@ -26,7 +26,7 @@
 	
 	{
 		"appointment_id" : "26",
-		"aadhar_id" : "111122223333",
+		"aadhar" : "111122223333",
 		"place_name" : "Civil Hospital",
 		"utility_type" : "Hospital",
 		"appointment_type" : "Emergency"
@@ -34,8 +34,8 @@
 	
 	{
 		"appointment_id" : "07", 
-		"aadhar_id" : "135724681357",
-		"place_name" : "Post Office Headquarters",
+		"aadhar" : "135724681357",
+		"place_name" : "Indian Post Main Post Office",
 		"utility_type" : "Post Office",
 		"appointment_type" : "Regular"
 	}
