@@ -1,7 +1,7 @@
 [
 	{
-		"complain_id" : "1",
-		"aadhar_number" : "963212678321",
+		"complaint_id" : "1",
+		"aadhar" : "963212678321",
 		"name" : "Manan Rajvir",
 		"contact_number" : "9099984086",
 		"department" : "Water",
@@ -11,8 +11,8 @@
 	
 	
 	{
-		"complain_id" : "2",
-		"aadhar_number" : "145235476222",
+		"complaint_id" : "2",
+		"aadhar" : "145235476222",
 		"name" : "Susan Smith",
 		"contact_number" : "9462884086",
 		"department" : "Electricity department",
@@ -21,8 +21,8 @@
 	},
 	
 	{
-		"complain_id" : "3",
-		"aadhar_number" : "125432168974",
+		"complaint_id" : "3",
+		"aadhar" : "125432168974",
 		"name" : "Robin Paul",
 		"contact_number" : "9973210743",
 		"department" : "Postal Services",
@@ -31,8 +31,8 @@
 	},
 	
 	{
-		"complain_id" : "4",
-		"aadhar_number" : "986532172233",
+		"complaint_id" : "4",
+		"aadhar" : "986532172233",
 		"name" : "Yash Saxena",
 		"contact_number" : "9099976086",
 		"department" : "Water",
@@ -41,8 +41,8 @@
 	},
 	
 	{
-		"complain_id" : "5",
-		"aadhar_number" : "123443211234",
+		"complaint_id" : "5",
+		"aadhar" : "123443211234",
 		"name" : "Serena Williams",
 		"contact_number" : "8426901235",
 		"department" : "Telephone department",
