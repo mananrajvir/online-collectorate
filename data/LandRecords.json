@@ -3,66 +3,66 @@
 		"aadhar": "123443211234",
 		"land_id": "12",
 		"area": "Plot Number 6, Ramdham street 5, Kalawad Road",
-		"land_type": "Commercial",
+		"land_type": "Commercial"
 	},
 	{
 		"aadhar": "135724681357",
 		"land_id": "11",
 		"area": "Plot Number 21, Aalap Greencity, University Road",
-		"land_type": "Commercial",
+		"land_type": "Commercial"
 	},
 	{
 		"aadhar": "123443211897",
 		"land_id": "21",
 		"area": "Plot Number 11, Taraghadi, Rajkot-Jamnagar Highway",
-		"land_type": "Agriculture",
+		"land_type": "Agriculture"
 	},
 	{
 		"aadhar": "987632145688",
 		"land_id": "16",
 		"area": "Plot Number 5, Africa Colony, Kalawad Road",
-		"land_type": "Residential",
+		"land_type": "Residential"
 	},
 	{
 		"aadhar": "125432168974",
 		"land_id": "7",
 		"area": "Plot Number 11, Subhashnagar street 5, Kalawad Road",
-		"land_type": "Residential",
+		"land_type": "Residential"
 	},
 	{
 		"aadhar": "986532172233",
 		"land_id": "1",
 		"area": "Plot 1, Airport Road",
-		"land_type": "Commercial",
+		"land_type": "Commercial"
 	},
 	{
 		"aadhar": "145235476222",
 		"land_id": "2",
 		"area": "Plot Number 16,Kalawad Road, Rajkot",
-		"land_type": "Commercial",
+		"land_type": "Commercial"
 	},
 	{
 		"aadhar": "111122223333",
 		"land_id": "3",
 		"area": "Plot Number 6,Kalawad Road, Rajkot",
-		"land_type": "Commercial",
+		"land_type": "Commercial"
 	},
 	{
 		"aadhar": "986532172233",
 		"land_id": "25",
 		"area": "Plot Number 1,Ring Road, Rajkot",
-		"land_type": "Residential",
+		"land_type": "Residential"
 	},
 	{
 		"aadhar": "123443211234",
 		"land_id": "19",
 		"area": "Plot Number 17,Kalawad Road, Rajkot",
-		"land_type": "Residential",
+		"land_type": "Residential"
 	},
 	{
 		"aadhar": "987632145688",
 		"land_id": "67",
 		"area": "Plot Number 48,Yagnig Road, Rajkot",
-		"land_type": "Agriculture",
+		"land_type": "Agriculture"
 	}
 ]
