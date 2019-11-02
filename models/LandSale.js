@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-var landSalesSchema = mongoose.Schema({	// From the data given in the sheet
+var landSaleSchema = mongoose.Schema({	// From the data given in the sheet
 	sale_number: {
 		type: Number,
 		required: true,
@@ -19,4 +19,4 @@ var landSalesSchema = mongoose.Schema({	// From the data given in the sheet
 	sale_type: String
 });
 
-module.exports = mongoose.model("LandSales", landSalesSchema);
+module.exports = mongoose.model("LandSale", landSaleSchema);
