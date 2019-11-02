@@ -15,4 +15,4 @@ var landRecordsSchema = mongoose.Schema({	// From the data given in the sheet
 	,
 });
 
-module.exports = mongoose.model("LandRecords", landRecordsSchemaSchema);
+module.exports = mongoose.model("LandRecords", landRecordsSchema);

@@ -8,4 +8,4 @@ var utilitiesListSchema = mongoose.Schema({	// From the data given in the sheet
 	timings : String
 });
 
-module.exports = mongoose.model("UtilitiesList", utilitiesListSchemaSchema);
+module.exports = mongoose.model("UtilitiesList", utilitiesListSchema);

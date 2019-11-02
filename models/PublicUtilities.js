@@ -1,4 +1,4 @@
-sconst mongoose = require("mongoose");
+const mongoose = require("mongoose");
 
 var publicUtilitiesSchema = mongoose.Schema({	// From the data given in the sheet
 	appointment_id: {
