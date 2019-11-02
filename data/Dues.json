@@ -7,7 +7,6 @@
 		"pay_to_office" : "Electrical department",
 		"due_type" : "Monthly Bill", 
 		"payment": {
-			"payment_id": "150001",
 			"date": "15-Aug-2019",
 			"amount": "1086",
 			"payment_method": "Cash"
@@ -21,7 +20,6 @@
 		"pay_to_office" : "Water department",
 		"due_type" : "Pending Bill",
 		"payment": {
-			"payment_id": "142193",
 			"date": "09-Aug-2018",
 			"amount": "478",
 			"payment_method": "Card"
@@ -36,7 +34,6 @@
 		"pay_to_office" : "RTO",
 		"due_type" : "Seatbelt Fine",
 		"payment": {
-			"payment_id": "160012",
 			"date": "28-Oct-2019",
 			"amount": "500",
 			"payment_method": "Online"
@@ -51,7 +48,6 @@
 		"pay_to_office" : "RTO",
 		"due_type" : "Helmet Fine",
 		"payment": {
-			"payment_id": "154902",
 			"date": "20-Sep-2019",
 			"amount": "500",
 			"payment_method": "Online"
@@ -66,9 +62,8 @@
 		"pay_to_office" : "Electrical department",
 		"due_type" : "Monthly Bill",
 		"payment": {
-			"payment_id": "154893",
 			"date": "16-Sep-2019",
-			"amount": "10000",
+			"amount": "2478",
 			"payment_method": "Online"
 		}
 	}
