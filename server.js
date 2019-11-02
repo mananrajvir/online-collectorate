@@ -178,4 +178,17 @@ app.get('/parseUtilities', (req, res) => {
 		.catch(err => logger.error(err));
 });
 
+function doFindCitizen(aadhar) {
+	return new Promise((resolve, reject) => {
+		Citizen.findOne({ aadhar: aadhar }, function(err, doc) {
+			if(err) return reject(err);
+			return resolve(doc);
+		})
+	});
+}
+
+app.get('/citizenDetails/:aadhar', async (req, res) => {
+	res.json(await doFindCitizen(req.params.aadhar));
+})
+
 app.listen(API_PORT, () => logger.info(`Listening on port ${API_PORT}`));
